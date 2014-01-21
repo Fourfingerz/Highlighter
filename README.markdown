@@ -22,6 +22,12 @@ Highlight a user defined list of words on web pages.
 - context menu
 - fast!
 
+##BUILT USING
+- jQuery
+- jQuery UI
+- jQuery.highlightRegex
+- jQuery Tags Input Plugin (modified)
+
 ## Changelog
 
 **2014-01-21, version 1.0.0**  

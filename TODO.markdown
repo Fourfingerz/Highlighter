@@ -1,10 +1,4 @@
-##BUILT USING
-- jQuery
-- jQuery UI
-- jQuery.highlightRegex
-- jQuery Tags Input Plugin (modified)
-
-##DONE
+##FEATURES COMPLETED
 x reorder keywords  
 x messaging from popup to script  
 x messaging from script to page  
