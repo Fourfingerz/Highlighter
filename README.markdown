@@ -3,7 +3,7 @@ Highlighter Chrome Extension
 
 ## Overview
 
-Highlight a user defined list of words on web pages.
+Highlight a user defined list of words on web pages. Supports groups so you can have related keywords appear in the same colour, plus much more!
 
 ##Download
 [https://chrome.google.com/webstore/detail/highlighter/oibnefncafkleabfjlfheddocehlinga](https://chrome.google.com/webstore/detail/highlighter/oibnefncafkleabfjlfheddocehlinga)
